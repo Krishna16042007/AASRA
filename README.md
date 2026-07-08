@@ -163,3 +163,8 @@ This project is developed for educational and social impact purposes.
 ## Vision
 
 "Empowering citizens by providing a transparent, accessible, and efficient platform to connect with NGOs and receive timely assistance."
+
+##Author
+
+Krishna Bhadauriya
+
